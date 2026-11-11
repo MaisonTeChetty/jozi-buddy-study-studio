@@ -1,0 +1,16 @@
+-r requirements.txt
+strands-agents==1.62.0
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+cryptography>=44
+argon2-cffi>=23
+pyotp>=2.9
+phonenumbers>=8.13
+pypdf>=6,<7
+reportlab>=4,<5
+python-multipart>=0.0.20
+pytest>=8
+httpx>=0.28
+numpy>=2
+pywin32>=308; sys_platform == "win32"
+websockets>=15,<17

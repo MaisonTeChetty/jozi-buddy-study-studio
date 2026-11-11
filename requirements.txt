@@ -1,0 +1,1 @@
+strands-agents[bidi-all,bidi-pyaudio]

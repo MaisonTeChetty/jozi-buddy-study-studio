@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Jozi Buddy — Secure Study Studio</title>
+  <desc id="desc">A warm dark banner with a glowing amber and purple orb. Read, ask, practise, grow.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#aa88ca" stop-opacity=".28"/><stop offset="1" stop-color="#aa88ca" stop-opacity="0"/></radialGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4c18b"/><stop offset=".5" stop-color="#c49cc5"/><stop offset="1" stop-color="#796199"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="#14121b"/>
+  <rect x="1" y="1" width="1198" height="278" rx="23" fill="none" stroke="#b395ca" stroke-opacity=".16"/>
+  <circle cx="1000" cy="140" r="190" fill="url(#glow)"/>
+  <circle cx="1000" cy="140" r="104" fill="none" stroke="#a891bb" stroke-opacity=".16"/>
+  <circle cx="1000" cy="140" r="80" fill="none" stroke="#a891bb" stroke-opacity=".24"/>
+  <circle cx="1000" cy="140" r="58" fill="url(#orb)"/>
+  <path d="M1000 109l7 23 23 8-23 7-7 24-7-24-23-7 23-8z" fill="none" stroke="#fff4e9" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="70" y="69" fill="#c1a4d6" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3">SECURE STUDY STUDIO</text>
+  <text x="66" y="153" fill="#f3edf5" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">jozi<tspan fill="#edbd8e">.</tspan></text>
+  <text x="72" y="200" fill="#cabbd2" font-family="Segoe UI, Arial, sans-serif" font-size="23">Your PDFs. Your pace. One aha at a time.</text>
+  <text x="72" y="240" fill="#9e8daa" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1">READ · ASK · PRACTISE · GROW</text>
+</svg>
